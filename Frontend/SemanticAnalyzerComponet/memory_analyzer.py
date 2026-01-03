@@ -1,7 +1,3 @@
-"""
-Memory effect analysis
-Determines memory management strategy
-"""
 
 from Frontend.DataStructure import MemoryEffect, VariableType
 

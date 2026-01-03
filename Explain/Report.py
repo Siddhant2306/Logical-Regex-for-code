@@ -1,8 +1,3 @@
-# Explain/report.py
-"""
-Report generation for semantic analysis results
-"""
-
 
 class ReportGenerator:
     """Generates human-readable reports"""

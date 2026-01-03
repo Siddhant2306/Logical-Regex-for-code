@@ -1,7 +1,4 @@
-"""
-Type inference logic
-Infers types from expressions, calls, and operations
-"""
+
 import ast
 from typing import Tuple, Optional
 from Frontend.DataStructure import VariableType

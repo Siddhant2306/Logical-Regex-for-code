@@ -1,6 +1,3 @@
-"""
-Function definition and call analysis
-"""
 
 import ast
 from Frontend.DataStructure import FunctionInfo, VariableInfo, VariableType

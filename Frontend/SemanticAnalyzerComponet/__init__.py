@@ -1,7 +1,3 @@
-# Frontend/SemanticAnalyzer/__init__.py
-"""
-Semantic Analyzer - Main Entry Point
-"""
 
 import ast
 from typing import Dict, List, Set, Optional

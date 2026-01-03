@@ -1,6 +1,3 @@
-"""
-Variable tracking and assignment handling
-"""
 
 import ast
 from typing import Dict, List

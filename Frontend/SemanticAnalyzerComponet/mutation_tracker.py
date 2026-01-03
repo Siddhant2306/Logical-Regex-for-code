@@ -1,6 +1,3 @@
-"""
-Mutation and aliasing tracking
-"""
 
 import ast
 from typing import Dict, Set

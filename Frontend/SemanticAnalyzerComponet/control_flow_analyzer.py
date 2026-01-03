@@ -1,6 +1,3 @@
-"""
-Control flow analysis (loops, conditionals)
-"""
 
 import ast
 from Frontend.DataStructure import VariableInfo, VariableType

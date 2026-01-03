@@ -1,7 +1,7 @@
-if __name__ == "__main__":
-    numbers = input().split()
+def sum_positive(nums):
     total = 0
-    
-    for num in numbers:  
-        total += int(num)
-    print(total)
+    sum_name = 2
+    for x in nums:
+        if x > 0:
+            total = total + x + sum_name
+    return total
